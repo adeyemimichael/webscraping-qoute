@@ -73,7 +73,7 @@ This project focuses on utilizing Python for web scraping to gather data from on
 ### Notebooks and Examples
 
 - Explore the `examples` directory for Jupyter Notebook examples illustrating the project's usage.
-
+## created by adeyemimichael
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
